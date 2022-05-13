@@ -17,7 +17,7 @@ const Interview: NextPage = () => {
         <main className="mx-2 my-2 flex flex-col gap-2 rounded-lg border-2 border-black">
           <div>
             <img
-              src="https://instagram.fccu2-2.fna.fbcdn.net/v/t51.2885-15/279923450_3253985274830115_7853505513810334383_n.jpg?stp=dst-jpg_e15_p240x240&_nc_ht=instagram.fccu2-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=8iHTev7vSAYAX_Z3Yg9&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=MjgzMjI2NzY2MTkyOTg2NzYxOQ%3D%3D.2-ccb7-4&oh=00_AT_oo0dqu589oQLNMJuIwA3FEczIyftjLjcD3hKVK7JKdQ&oe=627C475A&_nc_sid=fa978c"
+              src="https://firebasestorage.googleapis.com/v0/b/img-uploader-45692.appspot.com/o/files%2F280597997_114074697804250_8226332493429954697_n.jpg?alt=media&token=5acaf145-1792-4241-8cc5-710e8e3f7331"
               alt=""
               className="h-40 w-full rounded-lg rounded-b-none object-cover"
             />
