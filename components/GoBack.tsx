@@ -7,7 +7,7 @@ const GoBack = () => {
       className="text-md w-full border-b-2 border-black bg-gray-200 p-2 font-semibold"
       id="goBack"
       onClick={() => {
-        Router.back()
+        Router.push('/main')
       }}
     >
       {'<<'} Go Back
